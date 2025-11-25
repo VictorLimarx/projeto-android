@@ -10,7 +10,7 @@
 }
 
 :root {
-   --cor0: #ebe5c5;
+   --cor0: #c5ebd985;
    --cor1: #83e1ad;
    --cor2: #3ddc84;
    --cor3: #2fa866;
@@ -28,8 +28,8 @@
 }
 
 body {
-    background-color: var(--cor2)
-    font-family: var(--fonte-padrao)   
+    background-color: var(--cor0);
+    font-family: var(--fonte-padrao);
 }
 
 a.externo::after{
@@ -186,7 +186,6 @@ aside > ul {
     list-style-position: inside;
     list-style-type: '\2714\00A0\00A0';
     columns: 2;
-
 }
 
 footer {
