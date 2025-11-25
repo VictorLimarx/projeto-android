@@ -72,11 +72,12 @@ nav {
 
 nav > a {
     color: white;
-    padding: 5px;
-    border-radius: 5px;
+    padding: 10px;
+    border-radius: 10px;
     text-decoration: none;
     font-weight: bold;
     transition-duration: .3s;
+    font-size: 1em;
 }
 
 nav > a:hover {
